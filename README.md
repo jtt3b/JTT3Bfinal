@@ -1,7 +1,7 @@
-final
+Final 2 pager
 ==============================
 
-final project capstone
+
 
 Project Organization
 ------------
